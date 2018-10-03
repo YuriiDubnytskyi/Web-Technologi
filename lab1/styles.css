@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto;
+    width: 600px;
+}
+input{
+    float: left;
+    width: 100px;
+    margin: 20px;
+}
+button{
+    background: gray;
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin: 20px;
+    border: 0px;
+}
+table{
+    width: 500px;
+    border: solid 1px black;
+    text-align: center;
+    margin: 20px;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 8px;
+}
